@@ -6,9 +6,12 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">About Me👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">About Me :raising_hand:</h2></summary>
   </ul>
 </div>
+<a target="_blank" align="center">
+<img align="right" top="400" height="300" width="400" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fttgyvnnd89j0yqoqc10fxgcvnlp08oa9nmjfkkx&ep=v1_gifs_search&rid=giphy.gif&ct=g" >
+</a>
 
 - 🔭 I’m currently working on **React, React Native, Nodejs, MySQL**
 - 🌱 &nbsp;I'm on track for learning more about **Artificial Intelligence, Systems Design, and Cloud Architecture**
@@ -16,6 +19,9 @@
 - ✍️ &nbsp;In my free time, I pursue **Graphic Design and Blog Writing as hobbies/side hustles**
 - ✉️ &nbsp;Feel free to reach me out luisdanielpbz@gmail.com
 - 📄 &nbsp;Know about my experiences
+
+<br>
+<br>
 
 <div id="user-content-toc">
   <ul align="center">
@@ -30,19 +36,20 @@
 </p>
 
 
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
 
 
-<!--
-**luisdaniel-21/luisdaniel-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
