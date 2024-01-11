@@ -10,7 +10,7 @@
   </ul>
 </div>
 <a target="_blank" align="center">
-<img align="right" top="400" height="300" width="400" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fttgyvnnd89j0yqoqc10fxgcvnlp08oa9nmjfkkx&ep=v1_gifs_search&rid=giphy.gif&ct=g" >
+<img align="right" top="400" height="200" width="300" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fttgyvnnd89j0yqoqc10fxgcvnlp08oa9nmjfkkx&ep=v1_gifs_search&rid=giphy.gif&ct=g" >
 </a>
 
 - 🔭 I’m currently working on **React, React Native, Nodejs, MySQL**
