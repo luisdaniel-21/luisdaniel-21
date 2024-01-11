@@ -20,9 +20,6 @@
 - ✉️ &nbsp;Feel free to reach me out luisdanielpbz@gmail.com
 - 📄 &nbsp;Know about my experiences
 
-<br>
-<br>
-<br>
 
 <div id="user-content-toc">
   <ul align="center">
